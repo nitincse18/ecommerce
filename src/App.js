@@ -4,25 +4,37 @@ import Body from './components/Body';
 import store from './utils/store';
 import { Outlet, RouterProvider, createBrowserRouter } from 'react-router-dom';
 import ProductList from './components/ProductList';
-import Home from './components/Home';
 import Header from './components/Header';
+import MainContainer from './components/MainContainer';
+import ProductCard from './components/ProductCard';
+import ProductDetails from './components/ProductDetails';
+import Cart from './components/Cart';
 
 
 const appRouter = createBrowserRouter([
-  
+    {
+      path: '/',
+      element: <Body />,
+      children: [
         {
           path: '/',
-          element: <Home />,
+          element: <MainContainer />,
         },
         {
           path: '/products',
           element: <ProductList />
+        },
+        {
+          path: '/details',
+          element: <ProductDetails />
+        },
+        {
+          path: '/cart',
+          element: <Cart />
         }
-      
+      ]
+    }
 ]);
-
-
-
 
 function App() {
   return (

@@ -1,0 +1,212 @@
+{
+  "code": "1089881_group_001",
+  "name": "Regular Fit Polo-neck jumper",
+  "stock": {
+      "stockLevel": 1
+  },
+  "price": {
+      "currencyIso": "INR",
+      "value": 2699,
+      "priceType": "BUY",
+      "formattedValue": "Rs.2,699.00",
+      "type": "WHITE"
+  },
+  "images": [
+      {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/ce/e1/cee10cd870db1419bc39b38c01a5f1847913e843.jpg],origin[dam],category[men_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+          "baseUrl": "https://image.hm.com/assets/hm/ce/e1/cee10cd870db1419bc39b38c01a5f1847913e843.jpg"
+      }
+  ],
+  "categories": [],
+  "pk": "9265369808897",
+  "whitePrice": {
+      "currencyIso": "INR",
+      "value": 2699,
+      "priceType": "BUY",
+      "formattedValue": "Rs.2,699.00",
+      "type": "WHITE"
+  },
+  "articles": [
+      {
+          "code": "1089881001",
+          "name": "Regular Fit Polo-neck jumper",
+          "images": [
+              {
+                  "url": "https://lp2.hm.com/hmgoepprod?set=source[/ce/e1/cee10cd870db1419bc39b38c01a5f1847913e843.jpg],origin[dam],category[men_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+                  "baseUrl": "https://image.hm.com/assets/hm/ce/e1/cee10cd870db1419bc39b38c01a5f1847913e843.jpg"
+              }
+          ],
+          "pk": "9218821488641",
+          "whitePrice": {
+              "currencyIso": "INR",
+              "value": 2699,
+              "priceType": "BUY",
+              "formattedValue": "Rs.2,699.00",
+              "type": "WHITE"
+          },
+          "logoPicture": [
+              {
+                  "url": "https://lp2.hm.com/hmgoepprod?set=source[/42/72/42729768513cbfe0865ddc0eba2df5d998aeb872.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+                  "baseUrl": "https://image.hm.com/assets/hm/42/72/42729768513cbfe0865ddc0eba2df5d998aeb872.jpg"
+              }
+          ],
+          "normalPicture": [
+              {
+                  "url": "https://lp2.hm.com/hmgoepprod?set=source[/42/72/42729768513cbfe0865ddc0eba2df5d998aeb872.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+                  "baseUrl": "https://image.hm.com/assets/hm/42/72/42729768513cbfe0865ddc0eba2df5d998aeb872.jpg"
+              }
+          ],
+          "visible": false,
+          "numbersOfPieces": 0,
+          "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4OTg4MV9ncm91cF8wMDFfZW5faW47MTA4OTg4MTAwMV9lbl9pbjtPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2Ow",
+          "dummy": false,
+          "ecoTaxValue": 0,
+          "redirectToPdp": false,
+          "comingSoon": false,
+          "color": {
+              "code": "000000",
+              "text": "Black",
+              "filterName": "Black_000000",
+              "hybrisCode": "09"
+          },
+          "rgbColor": "#272628",
+          "turnToSku": "1089881001001"
+      }
+  ],
+  "visible": false,
+  "concept": [
+      "H&M MAN"
+  ],
+  "numbersOfPieces": 0,
+  "defaultArticle": {
+      "code": "1089881001",
+      "name": "Regular Fit Polo-neck jumper",
+      "images": [
+          {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/ce/e1/cee10cd870db1419bc39b38c01a5f1847913e843.jpg],origin[dam],category[men_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/style]",
+              "baseUrl": "https://image.hm.com/assets/hm/ce/e1/cee10cd870db1419bc39b38c01a5f1847913e843.jpg"
+          }
+      ],
+      "pk": "9218821488641",
+      "whitePrice": {
+          "currencyIso": "INR",
+          "value": 2699,
+          "priceType": "BUY",
+          "formattedValue": "Rs.2,699.00",
+          "type": "WHITE"
+      },
+      "logoPicture": [
+          {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/42/72/42729768513cbfe0865ddc0eba2df5d998aeb872.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/42/72/42729768513cbfe0865ddc0eba2df5d998aeb872.jpg"
+          }
+      ],
+      "normalPicture": [
+          {
+              "url": "https://lp2.hm.com/hmgoepprod?set=source[/42/72/42729768513cbfe0865ddc0eba2df5d998aeb872.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+              "baseUrl": "https://image.hm.com/assets/hm/42/72/42729768513cbfe0865ddc0eba2df5d998aeb872.jpg"
+          }
+      ],
+      "visible": false,
+      "numbersOfPieces": 0,
+      "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4OTg4MV9ncm91cF8wMDFfZW5faW47MTA4OTg4MTAwMV9lbl9pbjtPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2Ow",
+      "dummy": false,
+      "ecoTaxValue": 0,
+      "redirectToPdp": false,
+      "comingSoon": false,
+      "color": {
+          "code": "000000",
+          "text": "Black",
+          "filterName": "Black_000000",
+          "hybrisCode": "09"
+      },
+      "rgbColor": "#272628",
+      "turnToSku": "1089881001001"
+  },
+  "sale": false,
+  "variantSizes": [
+      {
+          "orderFilter": 372,
+          "filterCode": "XL"
+      },
+      {
+          "orderFilter": 370,
+          "filterCode": "L"
+      },
+      {
+          "orderFilter": 366,
+          "filterCode": "S"
+      },
+      {
+          "orderFilter": 363,
+          "filterCode": "XS"
+      },
+      {
+          "orderFilter": 375,
+          "filterCode": "XXL"
+      },
+      {
+          "orderFilter": 369,
+          "filterCode": "M"
+      }
+  ],
+  "swatches": [],
+  "articleCodes": [
+      "1089881001",
+      "1089881003"
+  ],
+  "ticket": "Oy9wbHAvcHJvZHVjdC1saXN0LXdpdGgtY291bnQvcHJvZHVjdC1saXN0OyM7cHJvZHVjdF9rZXk7MTA4OTg4MV9ncm91cF8wMDFfZW5faW47MTA4OTg4MTAwMV9lbl9pbjtPQkpFQ1RJVkUkO05PTkU6Tk9ORTs2Ow",
+  "searchEngineProductId": "1089881_group_001_en_in",
+  "dummy": false,
+  "linkPdp": "/en_in/productpage.1089881001.html",
+  "categoryName": "Men",
+  "rgbColors": [
+      "#272628",
+      "#4F453F"
+  ],
+  "articleColorNames": [
+      "Black",
+      "Dark brown"
+  ],
+  "ecoTaxValue": 0,
+  "swatchesTotal": 2,
+  "showPriceMarker": false,
+  "redirectToPdp": false,
+  "mainCategoryCode": "men_cardigansjumpers_jumpers",
+  "comingSoon": false,
+  "brandName": "H&M",
+  "galleryImages": [
+      {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/1b/64/1b649f7bc7690a9bf301083804f3fdc03ae07fe7.jpg],origin[dam],category[men_cardigansjumpers_jumpers],type[DESCRIPTIVEDETAIL],res[m],hmver[2]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/5b/1a/5b1a18138f5cec22aabac210e405775b3512dac3.jpg"
+      },
+      {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/5b/1a/5b1a18138f5cec22aabac210e405775b3512dac3.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/f1/bb/f1bb309987af4cd38ae7d2e8c5ae463239d96a88.jpg"
+      },
+      {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/d1/9b/d19b390aec23a5ce4030cd6041a7fea9c1868c5d.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/34/b0/34b0d6b20cf522608c4d4c49bfa2181a0fc026f7.jpg"
+      },
+      {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/34/b0/34b0d6b20cf522608c4d4c49bfa2181a0fc026f7.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/1b/64/1b649f7bc7690a9bf301083804f3fdc03ae07fe7.jpg"
+      },
+      {
+          "url": "https://lp2.hm.com/hmgoepprod?set=source[/f1/bb/f1bb309987af4cd38ae7d2e8c5ae463239d96a88.jpg],origin[dam],category[],type[LOOKBOOK],res[m],hmver[1]&call=url[file:/product/main]",
+          "baseUrl": "https://image.hm.com/assets/hm/d1/9b/d19b390aec23a5ce4030cd6041a7fea9c1868c5d.jpg"
+      }
+  ],
+  "allArticleCodes": [
+      "1089881001",
+      "1089881003"
+  ],
+  "allArticleImages": [
+      "https://lp2.hm.com/hmgoepprod?set=source[/ce/e1/cee10cd870db1419bc39b38c01a5f1847913e843.jpg],origin[dam],category[men_cardigansjumpers_jumpers],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]",
+      "https://lp2.hm.com/hmgoepprod?set=source[/ae/05/ae059712a4780bbfe6f060382b5e3d96d692a0c5.jpg],origin[dam],category[],type[DESCRIPTIVESTILLLIFE],res[m],hmver[2]&call=url[file:/product/main]"
+  ],
+  "allArticleBaseImages": [
+      "https://image.hm.com/assets/hm/ce/e1/cee10cd870db1419bc39b38c01a5f1847913e843.jpg",
+      "https://image.hm.com/assets/hm/ae/05/ae059712a4780bbfe6f060382b5e3d96d692a0c5.jpg"
+  ]
+}

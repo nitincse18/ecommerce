@@ -1,6 +1,7 @@
 export const LOGO = 'https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/fkheaderlogo_plus-535108.svg'
 
-export const PRODUCT_LIST_API = 'https://apidojo-hm-hennes-mauritz-v1.p.rapidapi.com/products/list?country=in&lang=en&currentpage=0&pagesize=30&categories=men_all&concepts=H%26M%20MAN'
+export const PRODUCT_LIST_API = 'https://apidojo-hm-hennes-mauritz-v1.p.rapidapi.com/products/list?country=in&lang=en&currentpage=0&pagesize=30&categories='
+export const PRODUCT_DETAILS_API = 'https://apidojo-hm-hennes-mauritz-v1.p.rapidapi.com/products/detail?country=in&lang=en&productcode='
 // 'https://fakestoreapi.com/products'
 
 // export const CATEGORY_LIST_API = 'https://fakestoreapi.com/products/categories'
@@ -11,7 +12,7 @@ export const CATEGORY_LIST_API = 'https://apidojo-hm-hennes-mauritz-v1.p.rapidap
 export const API_OPTIONS = {
     method: 'GET', 
     headers: {
-        'X-RapidAPI-Key': 'c27b03af98msh37232267944bc06p194d50jsnd9284cf3ebe7',
+        'X-RapidAPI-Key': '565f15d20dmsh57212d08b79c612p1fe065jsne761a96e2f01',
         'X-RapidAPI-Host': 'apidojo-hm-hennes-mauritz-v1.p.rapidapi.com'
       }
 }

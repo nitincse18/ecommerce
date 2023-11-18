@@ -3,8 +3,12 @@ import { LOGO } from '../utils/constant'
 import MoreVertIcon from '@mui/icons-material/MoreVert';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
+import { useSelector } from 'react-redux';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
+
+  const cartItems = useSelector((store) => store.cart?.items)
   return (
     <div className='grid grid-flow-col p-4 m-2 shadow-lg '>
       <div className='flex col-span-1'>
@@ -19,7 +23,7 @@ const Header = () => {
       <div className='flex col-span-3 justify-around'>
         <button className='cursor-pointer'>Become a Seller</button>
         <button className='cursor-pointer'>Sign-In <KeyboardArrowDownIcon /></button>
-        <button className='cursor-pointer'><ShoppingCartIcon/></button>
+        <button className='cursor-pointer' ><a href={"/cart"}><ShoppingCartIcon fontSize='medium'/>{cartItems?.length}</a></button>
         <button className='cursor-pointer'><MoreVertIcon /></button>
         
       </div>

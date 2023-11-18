@@ -1,0 +1,1541 @@
+ {
+    "code": "1099776001",
+    "name": "2-pack Relaxed Fit Zip-through hoodies",
+    "description": "Zip-through hoodies in sweatshirt fabric. Relaxed fit with a jersey-lined, drawstring hood, a zip down the front, diagonal, welt side pockets and ribbing at the cuffs and hem. Soft brushed inside.",
+    "sapProductName": "OWEN 2PK RX ZIP HOODIE",
+    "sellingAttributes": [],
+    "color": {
+        "code": "09",
+        "text": "Black/Grey marl",
+        "rgbColor": "#272628"
+    },
+    "whitePrice": {
+        "price": 2999,
+        "currency": "INR",
+        "referenceFlag": true,
+        "startDate": 1699225200000,
+        "endDate": 32503676400000
+    },
+    "redPrice": {
+        "price": 1949,
+        "currency": "INR",
+        "referenceFlag": false,
+        "startDate": 1690176600000,
+        "endDate": 32503712460000
+    },
+    "priceType": "SALES_PRICE",
+    "importedBy": "Marketed and  H&M Hennes & Mauritz Retail Pvt. Ltd. A-wing, D-3, 2nd Floor District Centre Saket New Delhi -110017 India",
+    "importedDate": "10-2023",
+    "netQuantity": "2 N (1 Pack)",
+    "countryOfProduction": "Bangladesh",
+    "productTypeName": "Hoodie",
+    "assortmentTypeKey": "clothing",
+    "lengthCollection": [
+        {
+            "code": "garmentLength",
+            "value": [
+                "Regular length"
+            ]
+        },
+        {
+            "code": "sleeveLength",
+            "value": [
+                "Long sleeve"
+            ]
+        }
+    ],
+    "fits": [
+        "Relaxed fit"
+    ],
+    "showPriceMarker": false,
+    "baseProductCode": "1099776_group_001",
+    "ancestorProductCode": "1099776",
+    "mainCategory": {
+        "name": "Hoodies",
+        "code": "men_hoodiessweatshirts_hoodies"
+    },
+    "dynamicHeader": "DESC_FIT",
+    "supercategories": [
+        {
+            "name": "Men",
+            "code": "men_all"
+        },
+        {
+            "name": "Basics Hoodies and Sweatshirts",
+            "code": "men_basics_hoodiessweatshirts"
+        },
+        {
+            "name": "Hoodies & Sweatshirts",
+            "code": "men_hoodiessweatshirts"
+        },
+        {
+            "name": "Hoodies",
+            "code": "men_hoodiessweatshirts_hoodies"
+        },
+        {
+            "name": "Basics",
+            "code": "men_basics"
+        },
+        {
+            "name": "EEUM_STRYKOW_SWEATSUIT",
+            "code": "EEUM_STRYKOW_SWEATSUIT"
+        },
+        {
+            "name": "CEUM_BOOSTER",
+            "code": "CEUM_BOOSTER"
+        },
+        {
+            "name": "View all",
+            "code": "men_viewall"
+        },
+        {
+            "name": "IEM_S7_ESS_PRE_ACCESS",
+            "code": "IEM_S7_ESS_PRE_ACCESS"
+        },
+        {
+            "name": "BEM_S7_SALE_Hoodies_Jackets",
+            "code": "BEM_S7_SALE_Hoodies_Jackets"
+        },
+        {
+            "name": "BEM_S7_SALE_PYB",
+            "code": "BEM_S7_SALE_PYB"
+        },
+        {
+            "name": "BEM_S7_SALE_RNDXX",
+            "code": "BEM_S7_SALE_RNDXX"
+        },
+        {
+            "name": "AUM_WK28_MULTIPACKS",
+            "code": "AUM_WK28_MULTIPACKS"
+        },
+        {
+            "name": "AUM_NEWTOSALE_STEP2",
+            "code": "AUM_NEWTOSALE_STEP2"
+        },
+        {
+            "name": "AUM_MSS_BEST_OF_SALE",
+            "code": "AUM_MSS_BEST_OF_SALE"
+        },
+        {
+            "name": "SCA_MEN_MPDEAL_AUG_S8",
+            "code": "SCA_MEN_MPDEAL_AUG_S8"
+        },
+        {
+            "name": "GBM_S8_ESSENTIALS",
+            "code": "GBM_S8_ESSENTIALS"
+        }
+    ],
+    "constructionDescr": "Jersey",
+    "customerGroup": "Men",
+    "functions": [],
+    "newArrival": false,
+    "articlesList": [
+        {
+            "code": "1099776001",
+            "name": "2-pack Relaxed Fit Zip-through hoodies",
+            "description": "Zip-through hoodies in sweatshirt fabric. Relaxed fit with a jersey-lined, drawstring hood, a zip down the front, diagonal, welt side pockets and ribbing at the cuffs and hem. Soft brushed inside.",
+            "sellingAttributes": [],
+            "color": {
+                "code": "09",
+                "text": "Black/Grey marl",
+                "rgbColor": "#272628"
+            },
+            "whitePrice": {
+                "price": 2999,
+                "currency": "INR",
+                "referenceFlag": true,
+                "startDate": 1699225200000,
+                "endDate": 32503676400000
+            },
+            "redPrice": {
+                "price": 1949,
+                "currency": "INR",
+                "referenceFlag": false,
+                "startDate": 1690176600000,
+                "endDate": 32503712460000
+            },
+            "colourDescription": "Black/Grey marl",
+            "pattern": "Solid colour",
+            "importedBy": "Marketed and  H&M Hennes & Mauritz Retail Pvt. Ltd. A-wing, D-3, 2nd Floor District Centre Saket New Delhi -110017 India",
+            "importedDate": "10-2023",
+            "netQuantity": "2 N (1 Pack)",
+            "countryOfProduction": "Bangladesh",
+            "productTypeName": "Hoodie",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "percentageDiscount": "-35%",
+            "disclaimer": [],
+            "lightNeeds": [],
+            "wateringNeeds": [],
+            "plantType": [],
+            "plantAndFlowerStyle": [],
+            "salesMode": [],
+            "seats": [],
+            "stuffingMaterial": [],
+            "firmness": [],
+            "galleryDetails": [
+                {
+                    "id": "1853ba0c8f306758aff55ac58150302d06ededdb",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/18/53/1853ba0c8f306758aff55ac58150302d06ededdb.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F18%2F53%2F1853ba0c8f306758aff55ac58150302d06ededdb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVESTILLLIFE"
+                },
+                {
+                    "id": "84429534e66599626330d2d3e59da8aa886ad170",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/84/42/84429534e66599626330d2d3e59da8aa886ad170.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F84%2F42%2F84429534e66599626330d2d3e59da8aa886ad170.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVESTILLLIFE"
+                },
+                {
+                    "id": "59c1ad09094ea7aab0440814e3d30a78ba49d9cf",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/59/c1/59c1ad09094ea7aab0440814e3d30a78ba49d9cf.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F59%2Fc1%2F59c1ad09094ea7aab0440814e3d30a78ba49d9cf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVEDETAIL"
+                }
+            ],
+            "fabricSwatchThumbnails": [
+                {
+                    "id": "1853ba0c8f306758aff55ac58150302d06ededdb",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/18/53/1853ba0c8f306758aff55ac58150302d06ededdb.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F18%2F53%2F1853ba0c8f306758aff55ac58150302d06ededdb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVESTILLLIFE"
+                }
+            ],
+            "styleWith": [
+                {
+                    "code": "0624684003",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0624684_group_003",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0970816009",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0970816_group_009",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0647207035",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0647207_group_035",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1200457001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1200457_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1209027001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1209027_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0685816209",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0685816_group_209",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1198092001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1198092_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1194813001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1194813_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0578626028",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0578626_group_028",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0875105037",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0875105_group_037",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1159718001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1159718_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1119476001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1119476_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1145712005",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1145712_group_005",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0983297014",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0983297_group_014",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1101075002",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1101075_group_002",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1002227003",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1002227_group_003",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1025595001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1025595_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1144806002",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1144806_group_002",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1191680004",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1191680_group_004",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                }
+            ],
+            "functions": [],
+            "careInstructions": [
+                "Line dry",
+                "Only non-chlorine bleach when needed",
+                "Machine wash at 40°",
+                "Medium iron",
+                "Can be dry cleaned"
+            ],
+            "compositions": [
+                {
+                    "materials": [
+                        {
+                            "name": "Cotton",
+                            "percentage": "75.00"
+                        },
+                        {
+                            "name": "Viscose",
+                            "percentage": "3.00"
+                        },
+                        {
+                            "name": "Polyester",
+                            "percentage": "22.00"
+                        }
+                    ],
+                    "compositionType": "Shell"
+                }
+            ],
+            "materialDetails": [
+                {
+                    "name": "Cotton",
+                    "description": "Cotton is a soft and versatile natural fibre harvested from the cotton plant."
+                },
+                {
+                    "name": "Polyester",
+                    "description": "Polyester is a synthetic fibre made from crude oil (a fossil resource)."
+                },
+                {
+                    "name": "Viscose",
+                    "description": "Viscose is a regenerated cellulose fibre commonly made from wood, but the raw material could also consist of other cellulosic materials."
+                }
+            ],
+            "graphicalAppearanceDesc": "Melange",
+            "genericDescription": "Hoodie Black",
+            "variantsList": [
+                {
+                    "code": "1099776001010",
+                    "width": "1.04 m",
+                    "length": "66 cm",
+                    "size": {
+                        "sizeCode": "010",
+                        "name": "XS",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 11,
+                        "sizeFilter": "XS",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776001011",
+                    "width": "1.12 m",
+                    "length": "67 cm",
+                    "size": {
+                        "sizeCode": "011",
+                        "name": "S",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 12,
+                        "sizeFilter": "S",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776001012",
+                    "width": "1.20 m",
+                    "length": "69 cm",
+                    "size": {
+                        "sizeCode": "012",
+                        "name": "M",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 13,
+                        "sizeFilter": "M",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776001013",
+                    "width": "1.28 m",
+                    "length": "70 cm",
+                    "size": {
+                        "sizeCode": "013",
+                        "name": "L",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 14,
+                        "sizeFilter": "L",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776001014",
+                    "width": "1.36 m",
+                    "length": "71 cm",
+                    "size": {
+                        "sizeCode": "014",
+                        "name": "XL",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 15,
+                        "sizeFilter": "XL",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776001015",
+                    "width": "1.44 m",
+                    "length": "73 cm",
+                    "size": {
+                        "sizeCode": "015",
+                        "name": "XXL",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 16,
+                        "sizeFilter": "XXL",
+                        "market": "SP_IN"
+                    }
+                }
+            ],
+            "concepts": [
+                "BASICS"
+            ],
+            "parentProductCode": "1099776_group_001",
+            "styleWithScenario": "scenario_1",
+            "inStore": false,
+            "productTransparencyEnabled": true,
+            "suppliersDetailEnabled": true,
+            "suppliersSectionDisabledReason": "",
+            "comingSoon": false,
+            "numbersOfPieces": 2,
+            "external": false,
+            "articleType": "Z001",
+            "brandName": "H&M",
+            "palette": false,
+            "travelSize": false,
+            "corporateBrandId": 0,
+            "woodCompositions": [],
+            "articleCountryOfProduction": "Bangladesh",
+            "semiBulky": false,
+            "availabilityOnlineDate": 1658700000068
+        },
+        {
+            "code": "1099776002",
+            "name": "2-pack Relaxed Fit Zip-through hoodies",
+            "description": "Zip-through hoodies in sweatshirt fabric. Relaxed fit with a jersey-lined, drawstring hood, a zip down the front, diagonal, welt side pockets and ribbing at the cuffs and hem. Soft brushed inside.",
+            "sellingAttributes": [],
+            "color": {
+                "code": "86",
+                "text": "Turquoise/Light grey",
+                "rgbColor": "#7B878E"
+            },
+            "whitePrice": {
+                "price": 2999,
+                "currency": "INR",
+                "referenceFlag": true,
+                "startDate": 1699225200000,
+                "endDate": 32503676400000
+            },
+            "redPrice": {
+                "price": 1949,
+                "currency": "INR",
+                "referenceFlag": false,
+                "startDate": 1690176600000,
+                "endDate": 32503712460000
+            },
+            "colourDescription": "Turquoise/Light grey",
+            "pattern": "Solid colour",
+            "importedBy": "Marketed and  H&M Hennes & Mauritz Retail Pvt. Ltd. A-wing, D-3, 2nd Floor District Centre Saket New Delhi -110017 India",
+            "importedDate": "07-2022",
+            "netQuantity": "2 N",
+            "countryOfProduction": "Indonesia",
+            "productTypeName": "Hoodie",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "percentageDiscount": "-35%",
+            "disclaimer": [],
+            "lightNeeds": [],
+            "wateringNeeds": [],
+            "plantType": [],
+            "plantAndFlowerStyle": [],
+            "salesMode": [],
+            "seats": [],
+            "stuffingMaterial": [],
+            "firmness": [],
+            "galleryDetails": [
+                {
+                    "id": "b443d952408495a1ea8370ed5b908bd76117d375",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/c6/a5/c6a5379c250ae93d6822c60fc92b02d7dae159d6.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb4%2F43%2Fb443d952408495a1ea8370ed5b908bd76117d375.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVESTILLLIFE"
+                },
+                {
+                    "id": "c6a5379c250ae93d6822c60fc92b02d7dae159d6",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/b4/43/b443d952408495a1ea8370ed5b908bd76117d375.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc6%2Fa5%2Fc6a5379c250ae93d6822c60fc92b02d7dae159d6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVEDETAIL"
+                }
+            ],
+            "fabricSwatchThumbnails": [
+                {
+                    "id": "b443d952408495a1ea8370ed5b908bd76117d375",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/b4/43/b443d952408495a1ea8370ed5b908bd76117d375.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb4%2F43%2Fb443d952408495a1ea8370ed5b908bd76117d375.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVESTILLLIFE"
+                }
+            ],
+            "styleWith": [
+                {
+                    "code": "0970817025",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0970817_group_025",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1070274006",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1070274_group_006",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1119476001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1119476_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0685816143",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0685816_group_143",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0970816009",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0970816_group_009",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1068418001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1068418_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1144806002",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1144806_group_002",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0624684003",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0624684_group_003",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0875105037",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0875105_group_037",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1194822001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1194822_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1125309004",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1125309_group_004",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0578626028",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0578626_group_028",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1198092001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1198092_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0662369126",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0662369_group_126",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1198145001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1198145_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1194813001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1194813_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0685816209",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0685816_group_209",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                }
+            ],
+            "functions": [],
+            "careInstructions": [],
+            "compositions": [
+                {
+                    "materials": [
+                        {
+                            "name": "Cotton",
+                            "percentage": "60.00"
+                        },
+                        {
+                            "name": "Polyester",
+                            "percentage": "40.00"
+                        }
+                    ],
+                    "compositionType": "Shell"
+                }
+            ],
+            "materialDetails": [
+                {
+                    "name": "Cotton",
+                    "description": "Cotton is a soft and versatile natural fibre harvested from the cotton plant."
+                },
+                {
+                    "name": "Polyester",
+                    "description": "Polyester is a synthetic fibre made from crude oil (a fossil resource)."
+                }
+            ],
+            "graphicalAppearanceDesc": "Solid",
+            "genericDescription": "Hoodie Turquoise",
+            "variantsList": [
+                {
+                    "code": "1099776002010",
+                    "size": {
+                        "sizeCode": "010",
+                        "name": "XS",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 11,
+                        "sizeFilter": "XS",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776002011",
+                    "size": {
+                        "sizeCode": "011",
+                        "name": "S",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 12,
+                        "sizeFilter": "S",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776002012",
+                    "size": {
+                        "sizeCode": "012",
+                        "name": "M",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 13,
+                        "sizeFilter": "M",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776002013",
+                    "size": {
+                        "sizeCode": "013",
+                        "name": "L",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 14,
+                        "sizeFilter": "L",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776002014",
+                    "size": {
+                        "sizeCode": "014",
+                        "name": "XL",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 15,
+                        "sizeFilter": "XL",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776002015",
+                    "size": {
+                        "sizeCode": "015",
+                        "name": "XXL",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 16,
+                        "sizeFilter": "XXL",
+                        "market": "SP_IN"
+                    }
+                }
+            ],
+            "concepts": [
+                "BASICS"
+            ],
+            "parentProductCode": "1099776_group_002",
+            "styleWithScenario": "scenario_1",
+            "inStore": false,
+            "productTransparencyEnabled": true,
+            "suppliersDetailEnabled": true,
+            "suppliersSectionDisabledReason": "",
+            "comingSoon": false,
+            "numbersOfPieces": 2,
+            "external": false,
+            "articleType": "Z001",
+            "brandName": "H&M",
+            "palette": false,
+            "travelSize": false,
+            "corporateBrandId": 0,
+            "woodCompositions": [],
+            "articleCountryOfProduction": "Indonesia",
+            "semiBulky": false,
+            "availabilityOnlineDate": 1659304800042
+        },
+        {
+            "code": "1099776004",
+            "name": "2-pack Relaxed Fit Zip-through hoodies",
+            "description": "Zip-through hoodies in sweatshirt fabric. Relaxed fit with a jersey-lined, drawstring hood, a zip down the front, diagonal, welt side pockets and ribbing at the cuffs and hem. Soft brushed inside.",
+            "sellingAttributes": [
+                "New Arrival"
+            ],
+            "color": {
+                "code": "93",
+                "text": "Navy blue/Dark green",
+                "rgbColor": "#384440"
+            },
+            "whitePrice": {
+                "price": 2999,
+                "currency": "INR",
+                "referenceFlag": true,
+                "startDate": 1699225200000,
+                "endDate": 32503676400000
+            },
+            "colourDescription": "Navy blue/Dark green",
+            "pattern": "Solid colour",
+            "importedBy": "Marketed and  H&M Hennes & Mauritz Retail Pvt. Ltd. A-wing, D-3, 2nd Floor District Centre Saket New Delhi -110017 India",
+            "importedDate": "10-2023",
+            "netQuantity": "2 N (1 Pack)",
+            "countryOfProduction": "Bangladesh",
+            "productTypeName": "Hoodie",
+            "lengthCollection": [],
+            "showPriceMarker": false,
+            "disclaimer": [],
+            "lightNeeds": [],
+            "wateringNeeds": [],
+            "plantType": [],
+            "plantAndFlowerStyle": [],
+            "salesMode": [],
+            "seats": [],
+            "stuffingMaterial": [],
+            "firmness": [],
+            "galleryDetails": [
+                {
+                    "id": "8e492bb8cf5fa7c77a44ee73a69a5ccf703e7c91",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/8e/49/8e492bb8cf5fa7c77a44ee73a69a5ccf703e7c91.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8e%2F49%2F8e492bb8cf5fa7c77a44ee73a69a5ccf703e7c91.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVESTILLLIFE"
+                },
+                {
+                    "id": "efb36655e90b45fa3dc292a14f6062a50434b783",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/ef/b3/efb36655e90b45fa3dc292a14f6062a50434b783.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fef%2Fb3%2Fefb36655e90b45fa3dc292a14f6062a50434b783.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVESTILLLIFE"
+                },
+                {
+                    "id": "bd355aba3b99a4edf80244b3215ef3ed83297909",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/bd/35/bd355aba3b99a4edf80244b3215ef3ed83297909.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbd%2F35%2Fbd355aba3b99a4edf80244b3215ef3ed83297909.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVEDETAIL"
+                }
+            ],
+            "fabricSwatchThumbnails": [
+                {
+                    "id": "8e492bb8cf5fa7c77a44ee73a69a5ccf703e7c91",
+                    "mimeType": "image/jpeg",
+                    "baseUrl": "https://image.hm.com/assets/hm/8e/49/8e492bb8cf5fa7c77a44ee73a69a5ccf703e7c91.jpg",
+                    "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8e%2F49%2F8e492bb8cf5fa7c77a44ee73a69a5ccf703e7c91.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_hoodiessweatshirts_hoodies%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D",
+                    "assetType": "DESCRIPTIVESTILLLIFE"
+                }
+            ],
+            "styleWith": [
+                {
+                    "code": "1101074016",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1101074_group_016",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1195560007",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1195560_group_007",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1125309004",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1125309_group_004",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0569984069",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0569984_group_069",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1178248003",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1178248_group_003",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0875105037",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0875105_group_037",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0569984002",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0569984_group_002",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1183120001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1183120_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1200457001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1200457_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0570002151",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0570002_group_151",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1144806002",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1144806_group_002",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0998171001",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0998171_group_001",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "1024674009",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "1024674_group_009",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                },
+                {
+                    "code": "0624684003",
+                    "lengthCollection": [],
+                    "showPriceMarker": false,
+                    "styleWithOrigin": "manual",
+                    "parentProductCode": "0624684_group_003",
+                    "inStore": false,
+                    "productTransparencyEnabled": false,
+                    "suppliersDetailEnabled": false,
+                    "comingSoon": false,
+                    "external": false,
+                    "palette": false,
+                    "travelSize": false,
+                    "semiBulky": false
+                }
+            ],
+            "functions": [],
+            "careInstructions": [
+                "Line dry",
+                "Only non-chlorine bleach when needed",
+                "Machine wash at 40°",
+                "Medium iron",
+                "Can be dry cleaned"
+            ],
+            "compositions": [
+                {
+                    "materials": [
+                        {
+                            "name": "Cotton",
+                            "percentage": "60.00"
+                        },
+                        {
+                            "name": "Polyester",
+                            "percentage": "40.00"
+                        }
+                    ],
+                    "compositionType": "Shell"
+                }
+            ],
+            "materialDetails": [
+                {
+                    "name": "Cotton",
+                    "description": "Cotton is a soft and versatile natural fibre harvested from the cotton plant."
+                },
+                {
+                    "name": "Polyester",
+                    "description": "Polyester is a synthetic fibre made from crude oil (a fossil resource)."
+                }
+            ],
+            "graphicalAppearanceDesc": "Solid",
+            "genericDescription": "Hoodie Green",
+            "variantsList": [
+                {
+                    "code": "1099776004010",
+                    "width": "1.04 m",
+                    "length": "66 cm",
+                    "size": {
+                        "sizeCode": "010",
+                        "name": "XS",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 11,
+                        "sizeFilter": "XS",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776004011",
+                    "width": "1.12 m",
+                    "length": "67 cm",
+                    "size": {
+                        "sizeCode": "011",
+                        "name": "S",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 12,
+                        "sizeFilter": "S",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776004012",
+                    "width": "1.20 m",
+                    "length": "69 cm",
+                    "size": {
+                        "sizeCode": "012",
+                        "name": "M",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 13,
+                        "sizeFilter": "M",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776004013",
+                    "width": "1.28 m",
+                    "length": "70 cm",
+                    "size": {
+                        "sizeCode": "013",
+                        "name": "L",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 14,
+                        "sizeFilter": "L",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776004014",
+                    "width": "1.36 m",
+                    "length": "71 cm",
+                    "size": {
+                        "sizeCode": "014",
+                        "name": "XL",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 15,
+                        "sizeFilter": "XL",
+                        "market": "SP_IN"
+                    }
+                },
+                {
+                    "code": "1099776004015",
+                    "width": "1.44 m",
+                    "length": "73 cm",
+                    "size": {
+                        "sizeCode": "015",
+                        "name": "XXL",
+                        "sizeScaleCode": "186",
+                        "sizeScaleDescription": "Mens tops, alpha sizes",
+                        "sizeOrder": 16,
+                        "sizeFilter": "XXL",
+                        "market": "SP_IN"
+                    }
+                }
+            ],
+            "concepts": [
+                "BASICS"
+            ],
+            "parentProductCode": "1099776_group_004",
+            "styleWithScenario": "scenario_1",
+            "inStore": false,
+            "productTransparencyEnabled": true,
+            "suppliersDetailEnabled": true,
+            "suppliersSectionDisabledReason": "",
+            "comingSoon": false,
+            "numbersOfPieces": 2,
+            "external": false,
+            "articleType": "Z001",
+            "brandName": "H&M",
+            "palette": false,
+            "travelSize": false,
+            "corporateBrandId": 0,
+            "woodCompositions": [],
+            "articleCountryOfProduction": "Bangladesh",
+            "semiBulky": false,
+            "availabilityOnlineDate": 1699225200221
+        }
+    ],
+    "inStock": false,
+    "productUrl": "https://www2.hm.com/en_in/productpage.1099776001.html",
+    "swatchesType": "DESCRIPTIVE_STILL_LIFE",
+    "rootCategoryPath": "/1/men",
+    "productKey": "1099776_en_in",
+    "productCountryOfProduction": "Bangladesh",
+    "showGarmentsInfo": true,
+    "yearOfProduction": "2022",
+    "styleCollection": [
+        {
+            "code": "clothingStyle",
+            "value": [
+                "Hooded jacket"
+            ]
+        }
+    ],
+    "presentationTypes": "Top",
+    "presentationTypesCode": "prefilledPresentationProductType_sweatshirt",
+    "multipack": true,
+    "newProduct": false
+}
