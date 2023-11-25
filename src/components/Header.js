@@ -23,7 +23,7 @@ const Header = () => {
       <div className='flex col-span-3 justify-around'>
         <button className='cursor-pointer'>Become a Seller</button>
         <button className='cursor-pointer'>Sign-In <KeyboardArrowDownIcon /></button>
-        <button className='cursor-pointer' ><a href={"/cart"}><ShoppingCartIcon fontSize='medium'/>{cartItems?.length}</a></button>
+        <button className='cursor-pointer' ><Link to={"/cart"}><ShoppingCartIcon fontSize='medium'/>{cartItems?.length}</Link></button>
         <button className='cursor-pointer'><MoreVertIcon /></button>
         
       </div>
