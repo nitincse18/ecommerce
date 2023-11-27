@@ -9,6 +9,7 @@ import MainContainer from './components/MainContainer';
 import ProductCard from './components/ProductCard';
 import ProductDetails from './components/ProductDetails';
 import Cart from './components/Cart';
+import Login from './components/Login';
 
 const appRouter = createBrowserRouter([
   {
@@ -28,8 +29,12 @@ const appRouter = createBrowserRouter([
         element: <ProductDetails />
       },
       {
-        path: '/cart',  // Fix: Add a forward slash at the beginning
+        path: '/cart',
         element: <Cart />
+      },
+      {
+        path: '/login',
+        element: <Login />
       }
     ]
   }
@@ -38,13 +43,9 @@ const appRouter = createBrowserRouter([
 function App() {
   return (
     <Provider store={store}>
-      {/* <BrowserRouter> */}
-        
         <RouterProvider router={appRouter} >
-        {/* <Header /> */}
         <Outlet />
         </RouterProvider>
-      {/* </BrowserRouter> */}
     </Provider>
   );
 }

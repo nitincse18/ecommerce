@@ -4,13 +4,16 @@ import CurrencyRupeeIcon from "@mui/icons-material/CurrencyRupee";
 import productData from "../utils/StaticData/products.json";
 import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
 import ShopIcon from "@mui/icons-material/Shop";
-import { useDispatch } from "react-redux";
+import { useDispatch, useSelector } from "react-redux";
 import { addItem } from "../utils/cartSlice";
 
+
 const ProductDetails = () => {
+
   const dispatch = useDispatch();
   const handleAddItem = (item) => {
     // Dispatch an action
+    
     dispatch(addItem(item));
   };
 
